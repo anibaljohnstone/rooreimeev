@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ejivuvanga.lixiaolai.com/sitemap.xml
